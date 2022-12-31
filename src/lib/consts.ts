@@ -22,7 +22,7 @@ export const SCORE = {
 } as const;
 export const POP_TABLE = [
   [30, "kani"],
-  [10, "kanimodoki"],
+  [30, "kanimodoki"],
   [30, "rabbit"],
-  [5, "lop"],
+  [10, "lop"],
 ] as const;
