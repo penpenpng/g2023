@@ -20,7 +20,7 @@ const SCENE = {
 <style scoped>
 #scene {
   width: 360px;
-  height: 660px;
+  height: 600px;
   border: 1px solid;
 }
 </style>
